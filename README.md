@@ -12,4 +12,4 @@ PyOpenCL is a tool that is worth learning.  Python allows exceptional clarity-of
 - 020 Array Sum - Use OpenCL To Add Two Large Random Arrays - Hiding Details
 - 021 Array Sum - Use OpenCL To Add Two Large Random Arrays - Showing Details
 - 030 Timing - Compare performance of a loop in pure Python versus OpenCL
-- 040 Elementwise - Use PyOpenCL arrays and elementwise to add two large randon arrays
+- 040 Elementwise - Use PyOpenCL arrays and elementwise to add two large random arrays
